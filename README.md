@@ -1,6 +1,15 @@
 # Javascript countdown timer
 It converts a javascript timestamp into days, hours, minutes and seconds
 
+## Install
+### Using NPM OR YARN
+
+`npm install javascript-timer`
+
+OR
+
+`yarn add javascript-timer`
+
 ## Usage
 
 You can either include *index.js* on your html file, or you can simply copy its contents to you main js file
