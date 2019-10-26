@@ -1,0 +1,33 @@
+  
+{
+  "name": "javascript-timer",
+  "description": "A countdown timer that converts javascript time stamp to days, hours, minutes and seconds.",
+  "keywords": [
+     "countdown",
+     "countdownTimer",
+     "reverse",
+     "date timestamp",
+     "timer",
+     "time",
+     "days",
+     "hours",
+     "minutes",
+     "seconds",
+     "javascript timer",
+     "js timer",
+     "vanilla js"
+  ],
+  "version": "1.0.0",
+  "author": {
+     "name": "Dan Weru",
+     "email": "fromweru@gmail.com",
+     "url": "https://neuralvibes.com"
+  },
+  "bugs": "https://github.com/onweru/javascript-timer/issues",
+  "homepage": "https://github.com/onweru/javascript-timer",
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/onweru/javascript-timer"
+  },
+  "license": "MIT"
+}
